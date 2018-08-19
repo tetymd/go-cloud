@@ -189,7 +189,6 @@ package main
 
 import (
     // previous imports omitted
-    "os"
     "io/ioutil"
 )
 
